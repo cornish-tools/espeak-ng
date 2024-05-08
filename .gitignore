@@ -142,6 +142,7 @@ src/pcaudiolib/
 *.lib
 *.dll
 *.exe
+*.recipe
 *.msi
 
 *.exp

@@ -1755,6 +1755,9 @@ include ph_greenlandic
 phonemetable ko base1
 include ph_korean
 
+phonemetable kw base1
+include ph_cornish
+
 phonemetable la base1
 include ph_latin
 

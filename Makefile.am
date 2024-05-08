@@ -499,6 +499,7 @@ dictionaries: \
 	espeak-ng-data/ko_dict \
 	espeak-ng-data/kok_dict \
 	espeak-ng-data/ku_dict \
+	espeak-ng-data/kw_dict \
 	espeak-ng-data/ky_dict \
 	espeak-ng-data/la_dict \
 	espeak-ng-data/lb_dict \
@@ -738,6 +739,9 @@ espeak-ng-data/kok_dict: dictsource/kok_list dictsource/kok_rules dictsource/kok
 
 ku: espeak-ng-data/ku_dict
 espeak-ng-data/ku_dict: dictsource/ku_list dictsource/ku_rules dictsource/ku_extra
+
+kw: espeak-ng-data/kw_dict
+espeak-ng-data/kw_dict: dictsource/kw_list dictsource/kw_rules
 
 ky: espeak-ng-data/ky_dict
 espeak-ng-data/ky_dict: dictsource/ky_list dictsource/ky_rules dictsource/ky_extra dictsource/ky_emoji
